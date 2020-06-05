@@ -1,0 +1,10 @@
+> print("one line\nnext line\n\"in quotes\", 'in quotes'")
+    one line
+    next line
+    "in quotes", 'in quotes'
+    > print('a backslash inside quotes: \'\\\'')
+    a backslash inside quotes: '\'
+    > print("a simpler way: '\\'")
+    a simpler way: '\'
+    end
+end
